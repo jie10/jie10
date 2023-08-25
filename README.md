@@ -16,13 +16,6 @@
 
 <p align="left">✨ I have been working in the tech industry for nearly 5 years.<br>📚 I'm currently learning Golang, Flutter, and Typescript<br>🎲 Fun fact: "Hello, World!" is a common starting point for programming.</p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jie10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jie10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jie10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ###
 
