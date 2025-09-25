@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ I have been working in the tech industry for 5 years.<br>📚 I'm currently learning Golang, Flutter, and Typescript<br>🎲 Fun fact: "Hello, World!" is a common starting point for programming.</p>
+<p align="left">✨ I have been working in the tech industry for 7 years.<br>📚 I'm currently learning Golang, Flutter, and Typescript<br>🎲 Fun fact: "Hello, World!" is a common starting point for programming.</p>
 
 
 ###
